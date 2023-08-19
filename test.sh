@@ -1,4 +1,4 @@
 echo "done it"
-set -x
+#set -x
 echo "yes"
-set +x
+#set +x
