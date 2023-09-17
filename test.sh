@@ -4,3 +4,4 @@ name=SAM
 c=10.0
 
 echo $a
+echo "all d best"
